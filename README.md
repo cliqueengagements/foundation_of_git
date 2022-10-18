@@ -1,5 +1,5 @@
-# foundation_of_git
+# Foundation_of_git
 Author Olawunmi Eniola
 
 # Description
-This repository contain all files associated with the GitHub foundation_of_git certificate course launched during the just concluded [gitkon.com](Gitcom 2022).
+This repository contain all files associated with the GitHub [foundation of git](https://learn.gitkraken.com) certificate course launched during the just concluded [Gitkon 2022](gitkon.com).
